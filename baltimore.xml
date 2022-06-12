@@ -18,5 +18,17 @@
     <text key="support" text="Support" default="" delete_if_empty="true"/>
     <text key="inscription" text="Inscription" default="" delete_if_empty="true"/>
 	</item>
+	
+	<item name="Metro (Symbol - Baltimore)" type="node">
+		<key key="traffic_sign" value="US:MD:I-7(1)" />
+		<text key="description" text="Description" default="Metro (Symbol - Baltimore)" delete_if_empty="true"/>
+    <text key="direction" text="Direction" default="" delete_if_empty="true"/>
+    <text key="destination" text="Destination" default="" delete_if_empty="true"/>
+    <text key="survey:date" text="Survey Date" default="" delete_if_empty="true"/>
+    <text key="mapillary" text="Mapillary Image Key" default="" delete_if_empty="true"/>
+    <text key="note" text="Note" default="" delete_if_empty="true"/>
+    <text key="support" text="Support" default="" delete_if_empty="true"/>
+    <text key="inscription" text="Inscription" default="" delete_if_empty="true"/>
+	</item>
 </group>
 </presets>
