@@ -1,0 +1,22 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+	author="bgo_eiu"
+	version="0.1"
+	shortdescription="Baltimore, Maryland"
+	description="Specific features such as common signage and restriction variants for mapping Baltimore City, Maryland (United States)">
+
+<group name="Traffic Signs">
+	<item name="Sponsored Road" type="node">
+		<key key="traffic_sign" value="US:MD:Baltimore:Sponsor" />
+		<text key="description" text="Description" default="" delete_if_empty="true"/>
+    <text key="operator" text="Operator (Sponsor)" default="" delete_if_empty="true"/>
+    <text key="direction" text="Direction" default="" delete_if_empty="true"/>
+    <text key="survey:date" text="Survey Date" default="" delete_if_empty="true"/>
+    <text key="mapillary" text="Mapillary Image Key" default="" delete_if_empty="true"/>
+    <text key="note" text="Note" default="" delete_if_empty="true"/>
+    <text key="support" text="Support" default="" delete_if_empty="true"/>
+    <text key="inscription" text="Inscription" default="" delete_if_empty="true"/>
+	</item>
+</group>
+</presets>
